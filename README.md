@@ -1,2 +1,2 @@
 # PredictHousingPrices
-This is a python notebook used to predict housing prices.
+This is a python notebook written to predict housing prices.
