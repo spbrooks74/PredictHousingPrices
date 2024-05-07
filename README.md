@@ -1,2 +1,2 @@
 # PredictHousingPrices
-This code written to predict housing prices.
+This code was written to predict housing prices.
